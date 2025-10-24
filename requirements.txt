@@ -1,0 +1,4 @@
+matplotlib>=3.10.7,<4.0.0
+pyautogui>=0.9.54,<0.10.0
+opencv-python>=4.12.0.88,<5.0.0.0
+pygetwindow>=0.0.9,<0.0.10
